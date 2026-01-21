@@ -19,7 +19,7 @@ $hasil = null;
 
 <head>
     <meta charset="UTF-8">
-    <title>Penjumlahan PHP</title>
+    <title>FORM</title>
 
 
     <!-- Bootstrap CDN -->

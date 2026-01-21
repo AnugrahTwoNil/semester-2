@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
 
 <head>
     <meta charset="UTF-8">
-    <title>Penjumlahan PHP</title>
+    <title>BUTA KAMU!!!/title>
 
 
     <!-- Bootstrap CDN -->
