@@ -58,7 +58,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                         <input type="number" class="form-control" name="Umum" value="<?= ambil_input('Umum') ?>">
                         </div>
 
-                        <button type="submit" class="btn btn-warning w-100">Hitung Total</button>
+                        <button type="submit" class="btn btn-warning text-white w-100">Hitung Total</button>
                     </form>
                 </div>
 
